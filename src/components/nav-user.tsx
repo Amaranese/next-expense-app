@@ -96,3 +96,4 @@ export function NavUser({
     </SidebarMenu>
   )
 }
+
